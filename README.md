@@ -1,4 +1,4 @@
-vhost-node
-==========
+vhost-express-node
+==================
 
-simple vhost config for nodejs
+Simple vhost for apps that using express - nodejs
