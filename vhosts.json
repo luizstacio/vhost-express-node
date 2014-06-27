@@ -1,0 +1,4 @@
+[
+  { "host": "*.desenv", "app": "../desenv/app.js" },
+  { "host": "2.desenv", "app": "../2.desenv/app.js" }
+]
