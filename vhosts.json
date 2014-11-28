@@ -1,3 +1,3 @@
 [
-     { "host": "criciumadev.com.br", "app": "../criciumadev/app.js"  }
+    { "host": "domain.com", "app": "path/app.js"  }
 ]
